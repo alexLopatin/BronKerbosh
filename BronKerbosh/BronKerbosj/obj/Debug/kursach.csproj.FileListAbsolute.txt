@@ -1,0 +1,34 @@
+C:\Users\Алик\Documents\Visual Studio 2015\Projects\kursach\kursach\bin\Debug\kursach.exe.config
+C:\Users\Алик\Documents\Visual Studio 2015\Projects\kursach\kursach\bin\Debug\kursach.exe
+C:\Users\Алик\Documents\Visual Studio 2015\Projects\kursach\kursach\bin\Debug\kursach.pdb
+C:\Users\Алик\Documents\Visual Studio 2015\Projects\kursach\kursach\obj\Debug\kursach.csprojResolveAssemblyReference.cache
+C:\Users\Алик\Documents\Visual Studio 2015\Projects\kursach\kursach\obj\Debug\MainWindow.g.cs
+C:\Users\Алик\Documents\Visual Studio 2015\Projects\kursach\kursach\obj\Debug\App.g.cs
+C:\Users\Алик\Documents\Visual Studio 2015\Projects\kursach\kursach\obj\Debug\kursach_MarkupCompile.cache
+C:\Users\Алик\Documents\Visual Studio 2015\Projects\kursach\kursach\obj\Debug\kursach_MarkupCompile.lref
+C:\Users\Алик\Documents\Visual Studio 2015\Projects\kursach\kursach\obj\Debug\MainWindow.baml
+C:\Users\Алик\Documents\Visual Studio 2015\Projects\kursach\kursach\obj\Debug\kursach.g.resources
+C:\Users\Алик\Documents\Visual Studio 2015\Projects\kursach\kursach\obj\Debug\kursach.Properties.Resources.resources
+C:\Users\Алик\Documents\Visual Studio 2015\Projects\kursach\kursach\obj\Debug\kursach.csproj.GenerateResource.Cache
+C:\Users\Алик\Documents\Visual Studio 2015\Projects\kursach\kursach\obj\Debug\kursach.exe
+C:\Users\Алик\Documents\Visual Studio 2015\Projects\kursach\kursach\obj\Debug\kursach.pdb
+C:\Users\Алик\Documents\Visual Studio 2015\Projects\kursach\kursach\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Алик\Documents\Visual Studio 2015\Projects\kursach\kursach\obj\Debug\Help.g.cs
+C:\Users\Алик\Documents\Visual Studio 2015\Projects\kursach\kursach\obj\Debug\Help.baml
+A:\filedump141218\kursach-20180521T151131Z-001\kursach\kursach\bin\Debug\kursach.exe.config
+A:\filedump141218\kursach-20180521T151131Z-001\kursach\kursach\obj\Debug\kursach.exe
+A:\filedump141218\kursach-20180521T151131Z-001\kursach\kursach\obj\Debug\kursach.pdb
+A:\filedump141218\kursach-20180521T151131Z-001\kursach\kursach\bin\Debug\kursach.exe
+A:\filedump141218\kursach-20180521T151131Z-001\kursach\kursach\bin\Debug\kursach.pdb
+A:\filedump141218\kursach-20180521T151131Z-001\kursach\kursach\obj\Debug\kursach.csprojResolveAssemblyReference.cache
+A:\filedump141218\kursach-20180521T151131Z-001\kursach\kursach\obj\Debug\Help.g.cs
+A:\filedump141218\kursach-20180521T151131Z-001\kursach\kursach\obj\Debug\MainWindow.g.cs
+A:\filedump141218\kursach-20180521T151131Z-001\kursach\kursach\obj\Debug\App.g.cs
+A:\filedump141218\kursach-20180521T151131Z-001\kursach\kursach\obj\Debug\GeneratedInternalTypeHelper.g.cs
+A:\filedump141218\kursach-20180521T151131Z-001\kursach\kursach\obj\Debug\kursach_MarkupCompile.cache
+A:\filedump141218\kursach-20180521T151131Z-001\kursach\kursach\obj\Debug\kursach_MarkupCompile.lref
+A:\filedump141218\kursach-20180521T151131Z-001\kursach\kursach\obj\Debug\Help.baml
+A:\filedump141218\kursach-20180521T151131Z-001\kursach\kursach\obj\Debug\MainWindow.baml
+A:\filedump141218\kursach-20180521T151131Z-001\kursach\kursach\obj\Debug\kursach.g.resources
+A:\filedump141218\kursach-20180521T151131Z-001\kursach\kursach\obj\Debug\kursach.Properties.Resources.resources
+A:\filedump141218\kursach-20180521T151131Z-001\kursach\kursach\obj\Debug\kursach.csproj.GenerateResource.Cache

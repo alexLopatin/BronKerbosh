@@ -1,0 +1,17 @@
+C:\Users\Алик\Documents\Visual Studio 2015\Projects\kursach\kursach\bin\Release\kursach.exe.config
+C:\Users\Алик\Documents\Visual Studio 2015\Projects\kursach\kursach\bin\Release\kursach.exe
+C:\Users\Алик\Documents\Visual Studio 2015\Projects\kursach\kursach\bin\Release\kursach.pdb
+C:\Users\Алик\Documents\Visual Studio 2015\Projects\kursach\kursach\obj\Release\Help.g.cs
+C:\Users\Алик\Documents\Visual Studio 2015\Projects\kursach\kursach\obj\Release\MainWindow.g.cs
+C:\Users\Алик\Documents\Visual Studio 2015\Projects\kursach\kursach\obj\Release\App.g.cs
+C:\Users\Алик\Documents\Visual Studio 2015\Projects\kursach\kursach\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\Алик\Documents\Visual Studio 2015\Projects\kursach\kursach\obj\Release\kursach_MarkupCompile.cache
+C:\Users\Алик\Documents\Visual Studio 2015\Projects\kursach\kursach\obj\Release\kursach_MarkupCompile.lref
+C:\Users\Алик\Documents\Visual Studio 2015\Projects\kursach\kursach\obj\Release\Help.baml
+C:\Users\Алик\Documents\Visual Studio 2015\Projects\kursach\kursach\obj\Release\MainWindow.baml
+C:\Users\Алик\Documents\Visual Studio 2015\Projects\kursach\kursach\obj\Release\kursach.g.resources
+C:\Users\Алик\Documents\Visual Studio 2015\Projects\kursach\kursach\obj\Release\kursach.Properties.Resources.resources
+C:\Users\Алик\Documents\Visual Studio 2015\Projects\kursach\kursach\obj\Release\kursach.csproj.GenerateResource.Cache
+C:\Users\Алик\Documents\Visual Studio 2015\Projects\kursach\kursach\obj\Release\kursach.exe
+C:\Users\Алик\Documents\Visual Studio 2015\Projects\kursach\kursach\obj\Release\kursach.pdb
+C:\Users\Алик\Documents\Visual Studio 2015\Projects\kursach\kursach\obj\Release\kursach.csprojResolveAssemblyReference.cache

@@ -1,0 +1,24 @@
+﻿<Window x:Class="kursach.Help"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:kursach"
+        mc:Ignorable="d"
+        Title="Справка" Height="400" Width="300"
+        Icon="icon.png"
+        ResizeMode="NoResize"
+        >
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="41*"/>
+            <RowDefinition Height="4*"/>
+        </Grid.RowDefinitions>
+        <TextBlock Margin="10,30,10,10" TextWrapping="Wrap">1) Для того, чтобы добавить вершину, нажмите правой кнопкой мыши по полотну и выберите "Добавить вершину"; <LineBreak/>
+            2) Чтобы создать ребро между вершинами, нажмите правой кнопкой мыши на одну из них и выберите пункт "Добавить ребро" и проведите ребро до другой вершины; <LineBreak/>
+            3) Чтобы удалить или переместить вершину, нажмите правой кнопкой мыши на неё и выберите соответствующий пункт меню. Аналогично для ребра; <LineBreak/>
+            4) Чтобы найти маскимально внутренне устойчивые подмножества графа, выберите в меню сверху пункт "Вычислить".
+        </TextBlock>
+        <TextBlock Grid.Row="1" HorizontalAlignment="Right" Padding="0,0,5,0" FontSize="10" VerticalAlignment="Center" Background="LightGray">Лопатин Александр, 103Б</TextBlock>
+    </Grid>
+</Window>
